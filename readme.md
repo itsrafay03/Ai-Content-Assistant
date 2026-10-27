@@ -8,8 +8,8 @@ This project was built and showcased during an interactive live training session
 
 ## 🔗 Quick Links
 
-* 🚀 **Live Application:** [AI Content Assistant App](https://itsrafay03-ai-resume-assistant-app-cl9m4b.streamlit.app/)
-* 📺 **Session Recording:** [Watch on YouTube](https://www.youtube.com/live/wwH7nk4dL8k)
+* 🚀 **Live Application:** [AI Content Assistant App](https://ai-content-assistant-hv2u6dnnkzx9eb49tcnlje.streamlit.app)
+* 📺 **Session Recording:** [Watch on YouTube](https://www.youtube.com/live/NF1UVmBlLD0)
 * 🌐 **Organization Website:** [PakAngels](https://www.pakangels.com/)
 
 ---
@@ -18,7 +18,7 @@ This project was built and showcased during an interactive live training session
 
 I served as a volunteer **Trainer and Moderator** for [PakAngels](https://www.pakangels.com/) during their **6-Week Hands-on Training Program on Generative & Agentic AI (Cohort-11, 2026)**.
 
-On **September 3, 2026**, I delivered my **2nd live lecture** to **450+ students** from diverse academic and professional backgrounds. The session guided students through building a real-world **AI Content Assistant** from scratch.
+On **September 3, 2026**, I delivered my **2nd live lecture** to **400+ students** from diverse academic and professional backgrounds. The session guided students through building a real-world **AI Content Assistant** from scratch.
 
 ### Key Learning Outcomes Covered:
 
@@ -45,10 +45,9 @@ On **September 3, 2026**, I delivered my **2nd live lecture** to **450+ students
 ### 💻 App Interface
 
 <p align="center">
-  <img src="assets/1.png" alt="AI Content Assistant Interface 1" width="800"><br><br>
-  <img src="assets/2.png" alt="AI Content Assistant Interface 2" width="800"><br><br>
-  <img src="assets/3.png" alt="AI Content Assistant Interface 3" width="800"><br><br>
-  <img src="assets/4.png" alt="AI Content Assistant Interface 4" width="800">
+  <img src="assets/1.png" alt="AI Content Assistant Interface 1" width="800"><br>
+  <img src="assets/2.png" alt="AI Content Assistant Interface 2" width="800"><br>
+  <img src="assets/3.png" alt="AI Content Assistant Interface 3" width="800"><br>
 </p>
 
 ### 📜 Trainer Schedule & Proof of Session
