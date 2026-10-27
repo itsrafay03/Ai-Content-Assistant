@@ -38,15 +38,26 @@ On **September 2, 2026**, I delivered the opening session to **450+ students** f
 
 * **Version Control:** Git & GitHub
 
+* **Resume Generation** Gemini 3.1 Flash Lite Model
+
 * **Deployment & UI Framework:** Streamlit Cloud
 
 ## 📸 Application Screenshots
 
 ### App Interface
 
-### Trainer Schedule & Proof of Session
+<!-- Centered and resized image -->
+<p align="center">
+  <img src="assets/1.png" alt="AI Resume Assistant Dashboard" width="800">
+  <img src="assets/2.png" alt="AI Resume Assistant Dashboard" width="800">
+  <img src="assets/3.png" alt="AI Resume Assistant Dashboard" width="800">
+  <img src="assets/4.png" alt="AI Resume Assistant Dashboard" width="800">
+</p>
 
-*(Note: Replace `./assets/streamlit_dashboard.png` and `./assets/trainer_schedule.png` with your actual image paths on GitHub).*
+### Trainer Schedule & Proof of Session
+<p align="center">
+  <img src="assets/session.png" alt="AI Resume Assistant Dashboard" width="800">
+</p>
 
 ## 🚀 How to Run Locally
 
@@ -74,8 +85,8 @@ On **September 2, 2026**, I delivered the opening session to **450+ students** f
 
 ## 👤 Author & Workshop Trainer
 
-**Abdul Rafay**
+**Muhammad Rafay**
 
 * GitHub: [@itsrafay03](https://github.com/itsrafay03)
 
-* Role: Volunteer AI Trainer & Developer at PakAngels
+* Role: Volunteer AI Trainer & Developer at PakAngels Generative and Agentic Ai Training.
